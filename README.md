@@ -31,3 +31,5 @@ Sử dụng GOOGLE COLAB:
 
 # Để không mất thời gian, khi mà mỗi lần chạy thì nó tải lại 1 lần thì nhóm đã lưu các file cài đặt:
 https://drive.google.com/drive/u/0/folders/1GMwqkymMp6ZUC9riluiUrFIHiWcSrAMl
+# Link Github:
+https://github.com/NhatLH/SentimenAnalysClassification
