@@ -33,3 +33,6 @@ Sử dụng GOOGLE COLAB:
 https://drive.google.com/drive/u/0/folders/1GMwqkymMp6ZUC9riluiUrFIHiWcSrAMl
 # Link Github:
 https://github.com/NhatLH/SentimenAnalysClassification
+
+# Link Submit code trên Kaggle:
+https://www.kaggle.com/code/vuminhnhatuet/sentiment-analys (đã chạy thành công)
